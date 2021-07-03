@@ -1,0 +1,17 @@
+PARTE H:
+
+1_ C# No permite multiples Herencias.
+
+2_ -
+
+3_ La generalizacion nos dice que las subclases de una clase
+mayor es una version mas especifica de la superclase.
+
+4_-
+
+5_ La diferencia es que en la composicion una clase hija no puede exisitir
+sin su clase padre. En cambio en la Agregacion la clase hija es independiente.
+
+6_a_ Verdadero
+6_b_ Verdadero
+6_c_ Falso
